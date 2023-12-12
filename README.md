@@ -2,6 +2,8 @@ Title: Bikes of Yore
 Author: Franklin Jester
 Class: MET CS 601
 
+Live URL: https://iridescent-arithmetic-eaeb00.netlify.app/
+
 Description: A site that displays classic bicycle brands as they've evolved from their early days
 to the present. When you hover over a picture of a classic bike, it changes to a modern image.
 
